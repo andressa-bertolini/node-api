@@ -1,0 +1,29 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node-dev src/index.ts"
+  },
+  "author": "Andressa",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@eslint/css": "^1.4.0",
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.0.1",
+    "@eslint/markdown": "^8.0.3",
+    "@types/express": "^5.0.6",
+    "@types/http-status-codes": "^1.2.0",
+    "eslint": "^10.7.0",
+    "globals": "^17.7.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.65.0"
+  }
+}

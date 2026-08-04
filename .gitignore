@@ -1,4 +1,3 @@
-.DS_Store
-**/node_modules/
-**/build/
-**/out/
+.env
+/build
+/node_modules
