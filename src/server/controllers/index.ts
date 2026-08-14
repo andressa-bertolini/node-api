@@ -1,1 +1,2 @@
-export * from './cidades';
+export * from "./properties";
+export * from "./places";
