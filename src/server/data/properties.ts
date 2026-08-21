@@ -13,12 +13,12 @@ export const properties = [
     "state": "New York",
     "lat": 40.7150,
     "long": -74.0060,
-    "featuredImage": "/prime-estate/mock/images/property-01-1.png",
+    "featuredImage": "/prime-estate/properties/property-01-1.png",
     "images": [
-      "/prime-estate/mock/images/property-01-1.png",
-      "/prime-estate/mock/images/property-01-2.png",
-      "/prime-estate/mock/images/property-01-3.png",
-      "/prime-estate/mock/images/property-01-4.png"
+      "/prime-estate/properties/property-01-1.png",
+      "/prime-estate/properties/property-01-2.png",
+      "/prime-estate/properties/property-01-3.png",
+      "/prime-estate/properties/property-01-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -36,15 +36,15 @@ export const properties = [
     "state": "Texas",
     "lat": 32.7767,
     "long": -96.7970,
-    "featuredImage": "/prime-estate/mock/images/property-02-1.png",
+    "featuredImage": "/prime-estate/properties/property-02-1.png",
     "images": [
-      "/prime-estate/mock/images/property-02-1.png",
-      "/prime-estate/mock/images/property-02-2.png",
-      "/prime-estate/mock/images/property-02-3.png",
-      "/prime-estate/mock/images/property-02-4.png",
-      "/prime-estate/mock/images/property-02-5.png",
-      "/prime-estate/mock/images/property-02-6.png",
-      "/prime-estate/mock/images/property-02-7.png"
+      "/prime-estate/properties/property-02-1.png",
+      "/prime-estate/properties/property-02-2.png",
+      "/prime-estate/properties/property-02-3.png",
+      "/prime-estate/properties/property-02-4.png",
+      "/prime-estate/properties/property-02-5.png",
+      "/prime-estate/properties/property-02-6.png",
+      "/prime-estate/properties/property-02-7.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -62,15 +62,15 @@ export const properties = [
     "state": "Arizona",
     "lat": 33.4484,
     "long": -112.0742,
-    "featuredImage": "/prime-estate/mock/images/property-03-1.png",
+    "featuredImage": "/prime-estate/properties/property-03-1.png",
     "images": [
-      "/prime-estate/mock/images/property-03-1.png",
-      "/prime-estate/mock/images/property-03-2.png",
-      "/prime-estate/mock/images/property-03-3.png",
-      "/prime-estate/mock/images/property-03-4.png",
-      "/prime-estate/mock/images/property-03-5.png",
-      "/prime-estate/mock/images/property-03-6.png",
-      "/prime-estate/mock/images/property-03-7.png"
+      "/prime-estate/properties/property-03-1.png",
+      "/prime-estate/properties/property-03-2.png",
+      "/prime-estate/properties/property-03-3.png",
+      "/prime-estate/properties/property-03-4.png",
+      "/prime-estate/properties/property-03-5.png",
+      "/prime-estate/properties/property-03-6.png",
+      "/prime-estate/properties/property-03-7.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -88,15 +88,15 @@ export const properties = [
     "state": "Tennessee",
     "lat": 36.1627,
     "long": -86.7816,
-    "featuredImage": "/prime-estate/mock/images/property-04-1.png",
+    "featuredImage": "/prime-estate/properties/property-04-1.png",
     "images": [
-      "/prime-estate/mock/images/property-04-1.png",
-      "/prime-estate/mock/images/property-04-2.png",
-      "/prime-estate/mock/images/property-04-3.png",
-      "/prime-estate/mock/images/property-04-4.png",
-      "/prime-estate/mock/images/property-04-5.png",
-      "/prime-estate/mock/images/property-04-6.png",
-      "/prime-estate/mock/images/property-04-7.png"
+      "/prime-estate/properties/property-04-1.png",
+      "/prime-estate/properties/property-04-2.png",
+      "/prime-estate/properties/property-04-3.png",
+      "/prime-estate/properties/property-04-4.png",
+      "/prime-estate/properties/property-04-5.png",
+      "/prime-estate/properties/property-04-6.png",
+      "/prime-estate/properties/property-04-7.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -114,12 +114,12 @@ export const properties = [
     "state": "Illinois",
     "lat": 41.8781,
     "long": -87.6298,
-    "featuredImage": "/prime-estate/mock/images/property-05-1.png",
+    "featuredImage": "/prime-estate/properties/property-05-1.png",
     "images": [
-      "/prime-estate/mock/images/property-05-1.png",
-      "/prime-estate/mock/images/property-05-2.png",
-      "/prime-estate/mock/images/property-05-3.png",
-      "/prime-estate/mock/images/property-05-4.png"
+      "/prime-estate/properties/property-05-1.png",
+      "/prime-estate/properties/property-05-2.png",
+      "/prime-estate/properties/property-05-3.png",
+      "/prime-estate/properties/property-05-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -137,13 +137,13 @@ export const properties = [
     "state": "Georgia",
     "lat": 33.7490,
     "long": -84.3880,
-    "featuredImage": "/prime-estate/mock/images/property-06-1.png",
+    "featuredImage": "/prime-estate/properties/property-06-1.png",
     "images": [
-      "/prime-estate/mock/images/property-06-1.png",
-      "/prime-estate/mock/images/property-06-2.png",
-      "/prime-estate/mock/images/property-06-3.png",
-      "/prime-estate/mock/images/property-06-4.png",
-      "/prime-estate/mock/images/property-06-5.png"
+      "/prime-estate/properties/property-06-1.png",
+      "/prime-estate/properties/property-06-2.png",
+      "/prime-estate/properties/property-06-3.png",
+      "/prime-estate/properties/property-06-4.png",
+      "/prime-estate/properties/property-06-5.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -161,14 +161,14 @@ export const properties = [
     "state": "Florida",
     "lat": 25.7617,
     "long": -80.1918,
-    "featuredImage": "/prime-estate/mock/images/property-07-1.png",
+    "featuredImage": "/prime-estate/properties/property-07-1.png",
     "images": [
-      "/prime-estate/mock/images/property-07-1.png",
-      "/prime-estate/mock/images/property-07-2.png",
-      "/prime-estate/mock/images/property-07-3.png",
-      "/prime-estate/mock/images/property-07-4.png",
-      "/prime-estate/mock/images/property-07-5.png",
-      "/prime-estate/mock/images/property-07-6.png"
+      "/prime-estate/properties/property-07-1.png",
+      "/prime-estate/properties/property-07-2.png",
+      "/prime-estate/properties/property-07-3.png",
+      "/prime-estate/properties/property-07-4.png",
+      "/prime-estate/properties/property-07-5.png",
+      "/prime-estate/properties/property-07-6.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -186,12 +186,12 @@ export const properties = [
     "state": "California",
     "lat": 37.7749,
     "long": -122.4194,
-    "featuredImage": "/prime-estate/mock/images/property-08-1.png",
+    "featuredImage": "/prime-estate/properties/property-08-1.png",
     "images": [
-      "/prime-estate/mock/images/property-08-1.png",
-      "/prime-estate/mock/images/property-08-2.png",
-      "/prime-estate/mock/images/property-08-3.png",
-      "/prime-estate/mock/images/property-08-4.png"
+      "/prime-estate/properties/property-08-1.png",
+      "/prime-estate/properties/property-08-2.png",
+      "/prime-estate/properties/property-08-3.png",
+      "/prime-estate/properties/property-08-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -209,13 +209,13 @@ export const properties = [
     "state": "Oregon",
     "lat": 45.5152,
     "long": -122.6784,
-    "featuredImage": "/prime-estate/mock/images/property-09-1.png",
+    "featuredImage": "/prime-estate/properties/property-09-1.png",
     "images": [
-      "/prime-estate/mock/images/property-09-1.png",
-      "/prime-estate/mock/images/property-09-2.png",
-      "/prime-estate/mock/images/property-09-3.png",
-      "/prime-estate/mock/images/property-09-4.png",
-      "/prime-estate/mock/images/property-09-5.png"
+      "/prime-estate/properties/property-09-1.png",
+      "/prime-estate/properties/property-09-2.png",
+      "/prime-estate/properties/property-09-3.png",
+      "/prime-estate/properties/property-09-4.png",
+      "/prime-estate/properties/property-09-5.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -233,17 +233,17 @@ export const properties = [
     "state": "Colorado",
     "lat": 39.7392,
     "long": -104.9903,
-    "featuredImage": "/prime-estate/mock/images/property-10-1.png",
+    "featuredImage": "/prime-estate/properties/property-10-1.png",
     "images": [
-      "/prime-estate/mock/images/property-10-1.png",
-      "/prime-estate/mock/images/property-10-2.png",
-      "/prime-estate/mock/images/property-10-3.png",
-      "/prime-estate/mock/images/property-10-4.png",
-      "/prime-estate/mock/images/property-10-5.png",
-      "/prime-estate/mock/images/property-10-6.png",
-      "/prime-estate/mock/images/property-10-7.png",
-      "/prime-estate/mock/images/property-10-8.png",
-      "/prime-estate/mock/images/property-10-9.png"
+      "/prime-estate/properties/property-10-1.png",
+      "/prime-estate/properties/property-10-2.png",
+      "/prime-estate/properties/property-10-3.png",
+      "/prime-estate/properties/property-10-4.png",
+      "/prime-estate/properties/property-10-5.png",
+      "/prime-estate/properties/property-10-6.png",
+      "/prime-estate/properties/property-10-7.png",
+      "/prime-estate/properties/property-10-8.png",
+      "/prime-estate/properties/property-10-9.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -261,11 +261,11 @@ export const properties = [
     "state": "Washington",
     "lat": 47.6062,
     "long": -122.3321,
-    "featuredImage": "/prime-estate/mock/images/property-11-1.png",
+    "featuredImage": "/prime-estate/properties/property-11-1.png",
     "images": [
-      "/prime-estate/mock/images/property-11-1.png",
-      "/prime-estate/mock/images/property-11-2.png",
-      "/prime-estate/mock/images/property-11-3.png"
+      "/prime-estate/properties/property-11-1.png",
+      "/prime-estate/properties/property-11-2.png",
+      "/prime-estate/properties/property-11-3.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -283,15 +283,15 @@ export const properties = [
     "state": "South Carolina",
     "lat": 32.7765,
     "long": -79.9311,
-    "featuredImage": "/prime-estate/mock/images/property-12-1.png",
+    "featuredImage": "/prime-estate/properties/property-12-1.png",
     "images": [
-      "/prime-estate/mock/images/property-12-1.png",
-      "/prime-estate/mock/images/property-12-2.png",
-      "/prime-estate/mock/images/property-12-3.png",
-      "/prime-estate/mock/images/property-12-4.png",
-      "/prime-estate/mock/images/property-12-5.png",
-      "/prime-estate/mock/images/property-12-6.png",
-      "/prime-estate/mock/images/property-12-7.png"
+      "/prime-estate/properties/property-12-1.png",
+      "/prime-estate/properties/property-12-2.png",
+      "/prime-estate/properties/property-12-3.png",
+      "/prime-estate/properties/property-12-4.png",
+      "/prime-estate/properties/property-12-5.png",
+      "/prime-estate/properties/property-12-6.png",
+      "/prime-estate/properties/property-12-7.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -309,12 +309,12 @@ export const properties = [
     "state": "Massachusetts",
     "lat": 42.3601,
     "long": -71.0589,
-    "featuredImage": "/prime-estate/mock/images/property-13-1.png",
+    "featuredImage": "/prime-estate/properties/property-13-1.png",
     "images": [
-      "/prime-estate/mock/images/property-13-1.png",
-      "/prime-estate/mock/images/property-13-2.png",
-      "/prime-estate/mock/images/property-13-3.png",
-      "/prime-estate/mock/images/property-13-4.png"
+      "/prime-estate/properties/property-13-1.png",
+      "/prime-estate/properties/property-13-2.png",
+      "/prime-estate/properties/property-13-3.png",
+      "/prime-estate/properties/property-13-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -332,16 +332,16 @@ export const properties = [
     "state": "Florida",
     "lat": 27.9506,
     "long": -82.4572,
-    "featuredImage": "/prime-estate/mock/images/property-14-1.png",
+    "featuredImage": "/prime-estate/properties/property-14-1.png",
     "images": [
-      "/prime-estate/mock/images/property-14-1.png",
-      "/prime-estate/mock/images/property-14-2.png",
-      "/prime-estate/mock/images/property-14-3.png",
-      "/prime-estate/mock/images/property-14-4.png",
-      "/prime-estate/mock/images/property-14-5.png",
-      "/prime-estate/mock/images/property-14-6.png",
-      "/prime-estate/mock/images/property-14-7.png",
-      "/prime-estate/mock/images/property-14-8.png"
+      "/prime-estate/properties/property-14-1.png",
+      "/prime-estate/properties/property-14-2.png",
+      "/prime-estate/properties/property-14-3.png",
+      "/prime-estate/properties/property-14-4.png",
+      "/prime-estate/properties/property-14-5.png",
+      "/prime-estate/properties/property-14-6.png",
+      "/prime-estate/properties/property-14-7.png",
+      "/prime-estate/properties/property-14-8.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -359,12 +359,12 @@ export const properties = [
     "state": "Texas",
     "lat": 29.7604,
     "long": -95.3698,
-    "featuredImage": "/prime-estate/mock/images/property-15-1.png",
+    "featuredImage": "/prime-estate/properties/property-15-1.png",
     "images": [
-      "/prime-estate/mock/images/property-15-1.png",
-      "/prime-estate/mock/images/property-15-2.png",
-      "/prime-estate/mock/images/property-15-3.png",
-      "/prime-estate/mock/images/property-15-4.png"
+      "/prime-estate/properties/property-15-1.png",
+      "/prime-estate/properties/property-15-2.png",
+      "/prime-estate/properties/property-15-3.png",
+      "/prime-estate/properties/property-15-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -382,10 +382,10 @@ export const properties = [
     "state": "Washington",
     "lat": 47.6062,
     "long": -122.3321,
-    "featuredImage": "/prime-estate/mock/images/property-16-1.png",
+    "featuredImage": "/prime-estate/properties/property-16-1.png",
     "images": [
-      "/prime-estate/mock/images/property-16-1.png",
-      "/prime-estate/mock/images/property-16-2.png"
+      "/prime-estate/properties/property-16-1.png",
+      "/prime-estate/properties/property-16-2.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Elevators in Building", "Business Center"]
   },
@@ -403,10 +403,10 @@ export const properties = [
     "state": "Colorado",
     "lat": 39.7392,
     "long": -104.9903,
-    "featuredImage": "/prime-estate/mock/images/property-16-2.png",
+    "featuredImage": "/prime-estate/properties/property-16-2.png",
     "images": [
-      "/prime-estate/mock/images/property-16-1.png",
-      "/prime-estate/mock/images/property-16-2.png"
+      "/prime-estate/properties/property-16-1.png",
+      "/prime-estate/properties/property-16-2.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View", "Elevators in Building", "Business Center"]
   },
@@ -424,11 +424,11 @@ export const properties = [
     "state": "Washington",
     "lat": 47.6062,
     "long": -122.3321,
-    "featuredImage": "/prime-estate/mock/images/property-18-1.png",
+    "featuredImage": "/prime-estate/properties/property-18-1.png",
     "images": [
-      "/prime-estate/mock/images/property-18-1.png",
-      "/prime-estate/mock/images/property-18-2.png",
-      "/prime-estate/mock/images/property-18-3.png"
+      "/prime-estate/properties/property-18-1.png",
+      "/prime-estate/properties/property-18-2.png",
+      "/prime-estate/properties/property-18-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Elevators in Building", "Secured Entry"]
   },
@@ -446,11 +446,11 @@ export const properties = [
     "state": "Texas",
     "lat": 32.7767,
     "long": -96.7970,
-    "featuredImage": "/prime-estate/mock/images/property-19-1.png",
+    "featuredImage": "/prime-estate/properties/property-19-1.png",
     "images": [
-      "/prime-estate/mock/images/property-19-1.png",
-      "/prime-estate/mock/images/property-18-2.png",
-      "/prime-estate/mock/images/property-18-3.png"
+      "/prime-estate/properties/property-19-1.png",
+      "/prime-estate/properties/property-18-2.png",
+      "/prime-estate/properties/property-18-3.png"
     ],
     "amenities": ["Central Heating", "Elevators in Building", "Secured Entry"]
   },
@@ -468,11 +468,11 @@ export const properties = [
     "state": "Arizona",
     "lat": 33.4484,
     "long": -112.0742,
-    "featuredImage": "/prime-estate/mock/images/property-20-1.png",
+    "featuredImage": "/prime-estate/properties/property-20-1.png",
     "images": [
-      "/prime-estate/mock/images/property-20-1.png",
-      "/prime-estate/mock/images/property-18-2.png",
-      "/prime-estate/mock/images/property-18-3.png"
+      "/prime-estate/properties/property-20-1.png",
+      "/prime-estate/properties/property-18-2.png",
+      "/prime-estate/properties/property-18-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Elevators in Building", "Secured Entry"]
   },
@@ -490,11 +490,11 @@ export const properties = [
     "state": "California",
     "lat": 34.0522,
     "long": -118.2437,
-    "featuredImage": "/prime-estate/mock/images/property-19-1.png",
+    "featuredImage": "/prime-estate/properties/property-19-1.png",
     "images": [
-      "/prime-estate/mock/images/property-19-1.png",
-      "/prime-estate/mock/images/property-18-2.png",
-      "/prime-estate/mock/images/property-18-3.png"
+      "/prime-estate/properties/property-19-1.png",
+      "/prime-estate/properties/property-18-2.png",
+      "/prime-estate/properties/property-18-3.png"
     ],
     "amenities": ["Central Heating", "Elevators in Building", "Secured Entry"]
   },
@@ -512,11 +512,11 @@ export const properties = [
     "state": "Arizona",
     "lat": 32.2226,
     "long": -110.9747,
-    "featuredImage": "/prime-estate/mock/images/property-22-1.png",
+    "featuredImage": "/prime-estate/properties/property-22-1.png",
     "images": [
-      "/prime-estate/mock/images/property-22-1.png",
-      "/prime-estate/mock/images/property-22-2.png",
-      "/prime-estate/mock/images/property-22-3.png"
+      "/prime-estate/properties/property-22-1.png",
+      "/prime-estate/properties/property-22-2.png",
+      "/prime-estate/properties/property-22-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Balcony", "Bike Storage"]
   },
@@ -534,12 +534,12 @@ export const properties = [
     "state": "Florida",
     "lat": 25.7617,
     "long": -80.1918,
-    "featuredImage": "/prime-estate/mock/images/property-23-1.png",
+    "featuredImage": "/prime-estate/properties/property-23-1.png",
     "images": [
-      "/prime-estate/mock/images/property-23-1.png",
-      "/prime-estate/mock/images/property-23-2.png",
-      "/prime-estate/mock/images/property-23-3.png",
-      "/prime-estate/mock/images/property-23-4.png"
+      "/prime-estate/properties/property-23-1.png",
+      "/prime-estate/properties/property-23-2.png",
+      "/prime-estate/properties/property-23-3.png",
+      "/prime-estate/properties/property-23-4.png"
     ],
     "amenities": ["Rooftop Pool", "Gym", "Co-working Lounge", "Centrally Air-Conditioned"]
   },
@@ -557,12 +557,12 @@ export const properties = [
     "state": "Florida",
     "lat": 28.5421,
     "long": -81.3723,
-    "featuredImage": "/prime-estate/mock/images/property-24-1.png",
+    "featuredImage": "/prime-estate/properties/property-24-1.png",
     "images": [
-      "/prime-estate/mock/images/property-24-1.png",
-      "/prime-estate/mock/images/property-24-2.png",
-      "/prime-estate/mock/images/property-24-3.png",
-      "/prime-estate/mock/images/property-24-4.png"
+      "/prime-estate/properties/property-24-1.png",
+      "/prime-estate/properties/property-24-2.png",
+      "/prime-estate/properties/property-24-3.png",
+      "/prime-estate/properties/property-24-4.png"
     ],
     "amenities": ["Pet-Friendly", "On-site Laundry", "Private Patio", "Secure Parking"]
   },
@@ -580,12 +580,12 @@ export const properties = [
     "state": "Arizona",
     "lat": 33.4152,
     "long": -111.8313,
-    "featuredImage": "/prime-estate/mock/images/property-03-2.png",
+    "featuredImage": "/prime-estate/properties/property-03-2.png",
     "images": [
-      "/prime-estate/mock/images/property-03-1.png",
-      "/prime-estate/mock/images/property-03-2.png",
-      "/prime-estate/mock/images/property-03-3.png",
-      "/prime-estate/mock/images/property-03-4.png"
+      "/prime-estate/properties/property-03-1.png",
+      "/prime-estate/properties/property-03-2.png",
+      "/prime-estate/properties/property-03-3.png",
+      "/prime-estate/properties/property-03-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Swimming Pool", "Laundry Facility", "View"]
   },
@@ -603,12 +603,12 @@ export const properties = [
     "state": "California",
     "lat": 32.7157,
     "long": -117.1611,
-    "featuredImage": "/prime-estate/mock/images/property-05-2.png",
+    "featuredImage": "/prime-estate/properties/property-05-2.png",
     "images": [
-      "/prime-estate/mock/images/property-05-1.png",
-      "/prime-estate/mock/images/property-05-2.png",
-      "/prime-estate/mock/images/property-05-3.png",
-      "/prime-estate/mock/images/property-05-4.png"
+      "/prime-estate/properties/property-05-1.png",
+      "/prime-estate/properties/property-05-2.png",
+      "/prime-estate/properties/property-05-3.png",
+      "/prime-estate/properties/property-05-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Elevators in Building"]
   },
@@ -626,12 +626,12 @@ export const properties = [
     "state": "Colorado",
     "lat": 38.8339,
     "long": -104.8202,
-    "featuredImage": "/prime-estate/mock/images/property-04-1.png",
+    "featuredImage": "/prime-estate/properties/property-04-1.png",
     "images": [
-      "/prime-estate/mock/images/property-04-1.png",
-      "/prime-estate/mock/images/property-04-2.png",
-      "/prime-estate/mock/images/property-04-3.png",
-      "/prime-estate/mock/images/property-04-4.png"
+      "/prime-estate/properties/property-04-1.png",
+      "/prime-estate/properties/property-04-2.png",
+      "/prime-estate/properties/property-04-3.png",
+      "/prime-estate/properties/property-04-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "View"]
   },
@@ -649,11 +649,11 @@ export const properties = [
     "state": "Colorado",
     "lat": 39.7294,
     "long": -104.8319,
-    "featuredImage": "/prime-estate/mock/images/property-15-1.png",
+    "featuredImage": "/prime-estate/properties/property-15-1.png",
     "images": [
-      "/prime-estate/mock/images/property-15-1.png",
-      "/prime-estate/mock/images/property-15-2.png",
-      "/prime-estate/mock/images/property-15-3.png"
+      "/prime-estate/properties/property-15-1.png",
+      "/prime-estate/properties/property-15-2.png",
+      "/prime-estate/properties/property-15-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility", "Parking Spaces", "Balcony"]
   },
@@ -671,12 +671,12 @@ export const properties = [
     "state": "Georgia",
     "lat": 32.0809,
     "long": -81.0912,
-    "featuredImage": "/prime-estate/mock/images/property-12-1.png",
+    "featuredImage": "/prime-estate/properties/property-12-1.png",
     "images": [
-      "/prime-estate/mock/images/property-12-1.png",
-      "/prime-estate/mock/images/property-12-2.png",
-      "/prime-estate/mock/images/property-12-3.png",
-      "/prime-estate/mock/images/property-12-4.png"
+      "/prime-estate/properties/property-12-1.png",
+      "/prime-estate/properties/property-12-2.png",
+      "/prime-estate/properties/property-12-3.png",
+      "/prime-estate/properties/property-12-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "View"]
   },
@@ -694,11 +694,11 @@ export const properties = [
     "state": "Georgia",
     "lat": 33.4734,
     "long": -82.0105,
-    "featuredImage": "/prime-estate/mock/images/property-06-1.png",
+    "featuredImage": "/prime-estate/properties/property-06-1.png",
     "images": [
-      "/prime-estate/mock/images/property-06-1.png",
-      "/prime-estate/mock/images/property-06-2.png",
-      "/prime-estate/mock/images/property-06-3.png"
+      "/prime-estate/properties/property-06-1.png",
+      "/prime-estate/properties/property-06-2.png",
+      "/prime-estate/properties/property-06-3.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -716,11 +716,11 @@ export const properties = [
     "state": "Illinois",
     "lat": 39.7817,
     "long": -89.6501,
-    "featuredImage": "/prime-estate/mock/images/property-11-1.png",
+    "featuredImage": "/prime-estate/properties/property-11-1.png",
     "images": [
-      "/prime-estate/mock/images/property-11-1.png",
-      "/prime-estate/mock/images/property-11-2.png",
-      "/prime-estate/mock/images/property-11-3.png"
+      "/prime-estate/properties/property-11-1.png",
+      "/prime-estate/properties/property-11-2.png",
+      "/prime-estate/properties/property-11-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility", "Parking Spaces", "Pet-Friendly"]
   },
@@ -738,13 +738,13 @@ export const properties = [
     "state": "Illinois",
     "lat": 41.7658,
     "long": -88.1495,
-    "featuredImage": "/prime-estate/mock/images/property-02-1.png",
+    "featuredImage": "/prime-estate/properties/property-02-1.png",
     "images": [
-      "/prime-estate/mock/images/property-02-1.png",
-      "/prime-estate/mock/images/property-02-2.png",
-      "/prime-estate/mock/images/property-02-3.png",
-      "/prime-estate/mock/images/property-02-4.png",
-      "/prime-estate/mock/images/property-02-5.png"
+      "/prime-estate/properties/property-02-1.png",
+      "/prime-estate/properties/property-02-2.png",
+      "/prime-estate/properties/property-02-3.png",
+      "/prime-estate/properties/property-02-4.png",
+      "/prime-estate/properties/property-02-5.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility"]
   },
@@ -762,12 +762,12 @@ export const properties = [
     "state": "Kansas",
     "lat": 37.6872,
     "long": -97.3301,
-    "featuredImage": "/prime-estate/mock/images/property-10-1.png",
+    "featuredImage": "/prime-estate/properties/property-10-1.png",
     "images": [
-      "/prime-estate/mock/images/property-10-1.png",
-      "/prime-estate/mock/images/property-10-2.png",
-      "/prime-estate/mock/images/property-10-3.png",
-      "/prime-estate/mock/images/property-10-4.png"
+      "/prime-estate/properties/property-10-1.png",
+      "/prime-estate/properties/property-10-2.png",
+      "/prime-estate/properties/property-10-3.png",
+      "/prime-estate/properties/property-10-4.png"
     ],
     "amenities": ["Parking Spaces", "Laundry Facility", "View"]
   },
@@ -785,11 +785,11 @@ export const properties = [
     "state": "Kansas",
     "lat": 38.9196,
     "long": -94.6552,
-    "featuredImage": "/prime-estate/mock/images/property-07-2.png",
+    "featuredImage": "/prime-estate/properties/property-07-2.png",
     "images": [
-      "/prime-estate/mock/images/property-07-1.png",
-      "/prime-estate/mock/images/property-07-2.png",
-      "/prime-estate/mock/images/property-07-3.png"
+      "/prime-estate/properties/property-07-1.png",
+      "/prime-estate/properties/property-07-2.png",
+      "/prime-estate/properties/property-07-3.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Elevators in Building"]
   },
@@ -807,11 +807,11 @@ export const properties = [
     "state": "Kansas",
     "lat": 39.0997,
     "long": -94.5786,
-    "featuredImage": "/prime-estate/mock/images/property-13-1.png",
+    "featuredImage": "/prime-estate/properties/property-13-1.png",
     "images": [
-      "/prime-estate/mock/images/property-13-1.png",
-      "/prime-estate/mock/images/property-13-2.png",
-      "/prime-estate/mock/images/property-13-3.png"
+      "/prime-estate/properties/property-13-1.png",
+      "/prime-estate/properties/property-13-2.png",
+      "/prime-estate/properties/property-13-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility", "Elevators in Building", "Business Center"]
   },
@@ -829,11 +829,11 @@ export const properties = [
     "state": "Massachusetts",
     "lat": 42.2652,
     "long": -71.8018,
-    "featuredImage": "/prime-estate/mock/images/property-01-2.png",
+    "featuredImage": "/prime-estate/properties/property-01-2.png",
     "images": [
-      "/prime-estate/mock/images/property-01-1.png",
-      "/prime-estate/mock/images/property-01-2.png",
-      "/prime-estate/mock/images/property-01-3.png"
+      "/prime-estate/properties/property-01-1.png",
+      "/prime-estate/properties/property-01-2.png",
+      "/prime-estate/properties/property-01-3.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Elevators in Building", "Business Center"]
   },
@@ -851,12 +851,12 @@ export const properties = [
     "state": "Massachusetts",
     "lat": 42.1015,
     "long": -72.5898,
-    "featuredImage": "/prime-estate/mock/images/property-02-1.png",
+    "featuredImage": "/prime-estate/properties/property-02-1.png",
     "images": [
-      "/prime-estate/mock/images/property-02-1.png",
-      "/prime-estate/mock/images/property-02-2.png",
-      "/prime-estate/mock/images/property-02-3.png",
-      "/prime-estate/mock/images/property-02-4.png"
+      "/prime-estate/properties/property-02-1.png",
+      "/prime-estate/properties/property-02-2.png",
+      "/prime-estate/properties/property-02-3.png",
+      "/prime-estate/properties/property-02-4.png"
     ],
     "amenities": ["Parking Spaces", "Laundry Facility", "View"]
   },
@@ -874,11 +874,11 @@ export const properties = [
     "state": "New York",
     "lat": 42.8864,
     "long": -78.8784,
-    "featuredImage": "/prime-estate/mock/images/property-09-1.png",
+    "featuredImage": "/prime-estate/properties/property-09-1.png",
     "images": [
-      "/prime-estate/mock/images/property-09-1.png",
-      "/prime-estate/mock/images/property-09-2.png",
-      "/prime-estate/mock/images/property-09-3.png"
+      "/prime-estate/properties/property-09-1.png",
+      "/prime-estate/properties/property-09-2.png",
+      "/prime-estate/properties/property-09-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility", "Parking Spaces"]
   },
@@ -896,12 +896,12 @@ export const properties = [
     "state": "New York",
     "lat": 43.1629,
     "long": -77.6132,
-    "featuredImage": "/prime-estate/mock/images/property-04-1.png",
+    "featuredImage": "/prime-estate/properties/property-04-1.png",
     "images": [
-      "/prime-estate/mock/images/property-04-1.png",
-      "/prime-estate/mock/images/property-04-2.png",
-      "/prime-estate/mock/images/property-04-3.png",
-      "/prime-estate/mock/images/property-04-4.png"
+      "/prime-estate/properties/property-04-1.png",
+      "/prime-estate/properties/property-04-2.png",
+      "/prime-estate/properties/property-04-3.png",
+      "/prime-estate/properties/property-04-4.png"
     ],
     "amenities": ["Parking Spaces", "Laundry Facility"]
   },
@@ -919,12 +919,12 @@ export const properties = [
     "state": "North Carolina",
     "lat": 35.2271,
     "long": -80.8431,
-    "featuredImage": "/prime-estate/mock/images/property-01-3.png",
+    "featuredImage": "/prime-estate/properties/property-01-3.png",
     "images": [
-      "/prime-estate/mock/images/property-01-1.png",
-      "/prime-estate/mock/images/property-01-2.png",
-      "/prime-estate/mock/images/property-01-3.png",
-      "/prime-estate/mock/images/property-01-4.png"
+      "/prime-estate/properties/property-01-1.png",
+      "/prime-estate/properties/property-01-2.png",
+      "/prime-estate/properties/property-01-3.png",
+      "/prime-estate/properties/property-01-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Elevators in Building", "View"]
   },
@@ -942,13 +942,13 @@ export const properties = [
     "state": "North Carolina",
     "lat": 35.7796,
     "long": -78.6382,
-    "featuredImage": "/prime-estate/mock/images/property-14-1.png",
+    "featuredImage": "/prime-estate/properties/property-14-1.png",
     "images": [
-      "/prime-estate/mock/images/property-14-1.png",
-      "/prime-estate/mock/images/property-14-2.png",
-      "/prime-estate/mock/images/property-14-3.png",
-      "/prime-estate/mock/images/property-14-4.png",
-      "/prime-estate/mock/images/property-14-5.png"
+      "/prime-estate/properties/property-14-1.png",
+      "/prime-estate/properties/property-14-2.png",
+      "/prime-estate/properties/property-14-3.png",
+      "/prime-estate/properties/property-14-4.png",
+      "/prime-estate/properties/property-14-5.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "View"]
   },
@@ -966,11 +966,11 @@ export const properties = [
     "state": "North Carolina",
     "lat": 36.0726,
     "long": -79.7920,
-    "featuredImage": "/prime-estate/mock/images/property-04-1.png",
+    "featuredImage": "/prime-estate/properties/property-04-1.png",
     "images": [
-      "/prime-estate/mock/images/property-04-1.png",
-      "/prime-estate/mock/images/property-04-2.png",
-      "/prime-estate/mock/images/property-04-3.png"
+      "/prime-estate/properties/property-04-1.png",
+      "/prime-estate/properties/property-04-2.png",
+      "/prime-estate/properties/property-04-3.png"
     ],
     "amenities": ["Parking Spaces", "Laundry Facility"]
   },
@@ -988,11 +988,11 @@ export const properties = [
     "state": "Oregon",
     "lat": 44.9429,
     "long": -123.0351,
-    "featuredImage": "/prime-estate/mock/images/property-22-1.png",
+    "featuredImage": "/prime-estate/properties/property-22-1.png",
     "images": [
-      "/prime-estate/mock/images/property-22-1.png",
-      "/prime-estate/mock/images/property-22-2.png",
-      "/prime-estate/mock/images/property-22-3.png"
+      "/prime-estate/properties/property-22-1.png",
+      "/prime-estate/properties/property-22-2.png",
+      "/prime-estate/properties/property-22-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility", "Balcony", "View"]
   },
@@ -1010,12 +1010,12 @@ export const properties = [
     "state": "Oregon",
     "lat": 44.0521,
     "long": -123.0868,
-    "featuredImage": "/prime-estate/mock/images/property-12-1.png",
+    "featuredImage": "/prime-estate/properties/property-12-1.png",
     "images": [
-      "/prime-estate/mock/images/property-12-1.png",
-      "/prime-estate/mock/images/property-12-2.png",
-      "/prime-estate/mock/images/property-12-3.png",
-      "/prime-estate/mock/images/property-12-4.png"
+      "/prime-estate/properties/property-12-1.png",
+      "/prime-estate/properties/property-12-2.png",
+      "/prime-estate/properties/property-12-3.png",
+      "/prime-estate/properties/property-12-4.png"
     ],
     "amenities": ["Parking Spaces", "Laundry Facility"]
   },
@@ -1033,12 +1033,12 @@ export const properties = [
     "state": "Pennsylvania",
     "lat": 39.9526,
     "long": -75.1652,
-    "featuredImage": "/prime-estate/mock/images/property-07-3.png",
+    "featuredImage": "/prime-estate/properties/property-07-3.png",
     "images": [
-      "/prime-estate/mock/images/property-07-1.png",
-      "/prime-estate/mock/images/property-07-2.png",
-      "/prime-estate/mock/images/property-07-3.png",
-      "/prime-estate/mock/images/property-07-4.png"
+      "/prime-estate/properties/property-07-1.png",
+      "/prime-estate/properties/property-07-2.png",
+      "/prime-estate/properties/property-07-3.png",
+      "/prime-estate/properties/property-07-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Elevators in Building"]
   },
@@ -1056,13 +1056,13 @@ export const properties = [
     "state": "Pennsylvania",
     "lat": 40.4534,
     "long": -79.9626,
-    "featuredImage": "/prime-estate/mock/images/property-06-1.png",
+    "featuredImage": "/prime-estate/properties/property-06-1.png",
     "images": [
-      "/prime-estate/mock/images/property-06-1.png",
-      "/prime-estate/mock/images/property-06-2.png",
-      "/prime-estate/mock/images/property-06-3.png",
-      "/prime-estate/mock/images/property-06-4.png",
-      "/prime-estate/mock/images/property-06-5.png"
+      "/prime-estate/properties/property-06-1.png",
+      "/prime-estate/properties/property-06-2.png",
+      "/prime-estate/properties/property-06-3.png",
+      "/prime-estate/properties/property-06-4.png",
+      "/prime-estate/properties/property-06-5.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "View"]
   },
@@ -1080,11 +1080,11 @@ export const properties = [
     "state": "Pennsylvania",
     "lat": 40.2732,
     "long": -76.8867,
-    "featuredImage": "/prime-estate/mock/images/property-24-1.png",
+    "featuredImage": "/prime-estate/properties/property-24-1.png",
     "images": [
-      "/prime-estate/mock/images/property-24-1.png",
-      "/prime-estate/mock/images/property-24-2.png",
-      "/prime-estate/mock/images/property-24-3.png"
+      "/prime-estate/properties/property-24-1.png",
+      "/prime-estate/properties/property-24-2.png",
+      "/prime-estate/properties/property-24-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Elevators in Building", "Secure Parking"]
   },
@@ -1102,12 +1102,12 @@ export const properties = [
     "state": "South Carolina",
     "lat": 34.0007,
     "long": -81.0348,
-    "featuredImage": "/prime-estate/mock/images/property-10-1.png",
+    "featuredImage": "/prime-estate/properties/property-10-1.png",
     "images": [
-      "/prime-estate/mock/images/property-10-1.png",
-      "/prime-estate/mock/images/property-10-2.png",
-      "/prime-estate/mock/images/property-10-3.png",
-      "/prime-estate/mock/images/property-10-4.png"
+      "/prime-estate/properties/property-10-1.png",
+      "/prime-estate/properties/property-10-2.png",
+      "/prime-estate/properties/property-10-3.png",
+      "/prime-estate/properties/property-10-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1125,11 +1125,11 @@ export const properties = [
     "state": "South Carolina",
     "lat": 32.8793,
     "long": -79.9955,
-    "featuredImage": "/prime-estate/mock/images/property-23-1.png",
+    "featuredImage": "/prime-estate/properties/property-23-1.png",
     "images": [
-      "/prime-estate/mock/images/property-23-1.png",
-      "/prime-estate/mock/images/property-23-2.png",
-      "/prime-estate/mock/images/property-23-3.png"
+      "/prime-estate/properties/property-23-1.png",
+      "/prime-estate/properties/property-23-2.png",
+      "/prime-estate/properties/property-23-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility", "Parking Spaces", "Private Patio"]
   },
@@ -1147,13 +1147,13 @@ export const properties = [
     "state": "Texas",
     "lat": 30.2672,
     "long": -97.7431,
-    "featuredImage": "/prime-estate/mock/images/property-03-1.png",
+    "featuredImage": "/prime-estate/properties/property-03-1.png",
     "images": [
-      "/prime-estate/mock/images/property-03-1.png",
-      "/prime-estate/mock/images/property-03-2.png",
-      "/prime-estate/mock/images/property-03-3.png",
-      "/prime-estate/mock/images/property-03-4.png",
-      "/prime-estate/mock/images/property-03-5.png"
+      "/prime-estate/properties/property-03-1.png",
+      "/prime-estate/properties/property-03-2.png",
+      "/prime-estate/properties/property-03-3.png",
+      "/prime-estate/properties/property-03-4.png",
+      "/prime-estate/properties/property-03-5.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Swimming Pool", "Laundry Facility", "View"]
   },
@@ -1171,12 +1171,12 @@ export const properties = [
     "state": "Washington",
     "lat": 47.6587,
     "long": -117.4260,
-    "featuredImage": "/prime-estate/mock/images/property-09-1.png",
+    "featuredImage": "/prime-estate/properties/property-09-1.png",
     "images": [
-      "/prime-estate/mock/images/property-09-1.png",
-      "/prime-estate/mock/images/property-09-2.png",
-      "/prime-estate/mock/images/property-09-3.png",
-      "/prime-estate/mock/images/property-09-4.png"
+      "/prime-estate/properties/property-09-1.png",
+      "/prime-estate/properties/property-09-2.png",
+      "/prime-estate/properties/property-09-3.png",
+      "/prime-estate/properties/property-09-4.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Elevators in Building", "Parking Spaces", "View"]
   },
@@ -1194,13 +1194,13 @@ export const properties = [
     "state": "Washington",
     "lat": 47.2529,
     "long": -122.4443,
-    "featuredImage": "/prime-estate/mock/images/property-02-1.png",
+    "featuredImage": "/prime-estate/properties/property-02-1.png",
     "images": [
-      "/prime-estate/mock/images/property-02-1.png",
-      "/prime-estate/mock/images/property-02-2.png",
-      "/prime-estate/mock/images/property-02-3.png",
-      "/prime-estate/mock/images/property-02-4.png",
-      "/prime-estate/mock/images/property-02-5.png"
+      "/prime-estate/properties/property-02-1.png",
+      "/prime-estate/properties/property-02-2.png",
+      "/prime-estate/properties/property-02-3.png",
+      "/prime-estate/properties/property-02-4.png",
+      "/prime-estate/properties/property-02-5.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1218,12 +1218,12 @@ export const properties = [
     "state": "California",
     "lat": 34.0522,
     "long": -118.2437,
-    "featuredImage": "/prime-estate/mock/images/property-05-1.png",
+    "featuredImage": "/prime-estate/properties/property-05-1.png",
     "images": [
-      "/prime-estate/mock/images/property-05-1.png",
-      "/prime-estate/mock/images/property-05-2.png",
-      "/prime-estate/mock/images/property-05-3.png",
-      "/prime-estate/mock/images/property-05-4.png"
+      "/prime-estate/properties/property-05-1.png",
+      "/prime-estate/properties/property-05-2.png",
+      "/prime-estate/properties/property-05-3.png",
+      "/prime-estate/properties/property-05-4.png"
     ],
     "amenities": ["Rooftop Pool", "Gym", "Co-working Lounge", "Centrally Air-Conditioned", "Elevators in Building", "Pet-Friendly"]
   },
@@ -1241,12 +1241,12 @@ export const properties = [
     "state": "California",
     "lat": 32.7157,
     "long": -117.1611,
-    "featuredImage": "/prime-estate/mock/images/property-03-1.png",
+    "featuredImage": "/prime-estate/properties/property-03-1.png",
     "images": [
-      "/prime-estate/mock/images/property-03-1.png",
-      "/prime-estate/mock/images/property-03-2.png",
-      "/prime-estate/mock/images/property-03-3.png",
-      "/prime-estate/mock/images/property-03-4.png"
+      "/prime-estate/properties/property-03-1.png",
+      "/prime-estate/properties/property-03-2.png",
+      "/prime-estate/properties/property-03-3.png",
+      "/prime-estate/properties/property-03-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "View"]
   },
@@ -1264,10 +1264,10 @@ export const properties = [
     "state": "Georgia",
     "lat": 32.0809,
     "long": -81.0912,
-    "featuredImage": "/prime-estate/mock/images/property-16-1.png",
+    "featuredImage": "/prime-estate/properties/property-16-1.png",
     "images": [
-      "/prime-estate/mock/images/property-16-1.png",
-      "/prime-estate/mock/images/property-16-2.png"
+      "/prime-estate/properties/property-16-1.png",
+      "/prime-estate/properties/property-16-2.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1285,12 +1285,12 @@ export const properties = [
     "state": "Georgia",
     "lat": 33.4734,
     "long": -82.0105,
-    "featuredImage": "/prime-estate/mock/images/property-14-1.png",
+    "featuredImage": "/prime-estate/properties/property-14-1.png",
     "images": [
-      "/prime-estate/mock/images/property-14-1.png",
-      "/prime-estate/mock/images/property-14-2.png",
-      "/prime-estate/mock/images/property-14-3.png",
-      "/prime-estate/mock/images/property-14-4.png"
+      "/prime-estate/properties/property-14-1.png",
+      "/prime-estate/properties/property-14-2.png",
+      "/prime-estate/properties/property-14-3.png",
+      "/prime-estate/properties/property-14-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1308,11 +1308,11 @@ export const properties = [
     "state": "Illinois",
     "lat": 39.7817,
     "long": -89.6501,
-    "featuredImage": "/prime-estate/mock/images/property-18-1.png",
+    "featuredImage": "/prime-estate/properties/property-18-1.png",
     "images": [
-      "/prime-estate/mock/images/property-18-1.png",
-      "/prime-estate/mock/images/property-18-2.png",
-      "/prime-estate/mock/images/property-18-3.png"
+      "/prime-estate/properties/property-18-1.png",
+      "/prime-estate/properties/property-18-2.png",
+      "/prime-estate/properties/property-18-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Bike Storage", "Elevators in Building"]
   },
@@ -1330,12 +1330,12 @@ export const properties = [
     "state": "Illinois",
     "lat": 41.7658,
     "long": -88.1495,
-    "featuredImage": "/prime-estate/mock/images/property-06-1.png",
+    "featuredImage": "/prime-estate/properties/property-06-1.png",
     "images": [
-      "/prime-estate/mock/images/property-06-1.png",
-      "/prime-estate/mock/images/property-06-2.png",
-      "/prime-estate/mock/images/property-06-3.png",
-      "/prime-estate/mock/images/property-06-4.png"
+      "/prime-estate/properties/property-06-1.png",
+      "/prime-estate/properties/property-06-2.png",
+      "/prime-estate/properties/property-06-3.png",
+      "/prime-estate/properties/property-06-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "View"]
   },
@@ -1353,11 +1353,11 @@ export const properties = [
     "state": "Kansas",
     "lat": 37.6872,
     "long": -97.3301,
-    "featuredImage": "/prime-estate/mock/images/property-04-1.png",
+    "featuredImage": "/prime-estate/properties/property-04-1.png",
     "images": [
-      "/prime-estate/mock/images/property-04-1.png",
-      "/prime-estate/mock/images/property-04-2.png",
-      "/prime-estate/mock/images/property-04-3.png"
+      "/prime-estate/properties/property-04-1.png",
+      "/prime-estate/properties/property-04-2.png",
+      "/prime-estate/properties/property-04-3.png"
     ],
     "amenities": ["Parking Spaces", "Laundry Facility"]
   },
@@ -1375,12 +1375,12 @@ export const properties = [
     "state": "Kansas",
     "lat": 38.9196,
     "long": -94.6552,
-    "featuredImage": "/prime-estate/mock/images/property-13-2.png",
+    "featuredImage": "/prime-estate/properties/property-13-2.png",
     "images": [
-      "/prime-estate/mock/images/property-13-1.png",
-      "/prime-estate/mock/images/property-13-2.png",
-      "/prime-estate/mock/images/property-13-3.png",
-      "/prime-estate/mock/images/property-13-4.png"
+      "/prime-estate/properties/property-13-1.png",
+      "/prime-estate/properties/property-13-2.png",
+      "/prime-estate/properties/property-13-3.png",
+      "/prime-estate/properties/property-13-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Elevators in Building", "Business Center"]
   },
@@ -1398,12 +1398,12 @@ export const properties = [
     "state": "Kansas",
     "lat": 39.0997,
     "long": -94.5786,
-    "featuredImage": "/prime-estate/mock/images/property-02-1.png",
+    "featuredImage": "/prime-estate/properties/property-02-1.png",
     "images": [
-      "/prime-estate/mock/images/property-02-1.png",
-      "/prime-estate/mock/images/property-02-2.png",
-      "/prime-estate/mock/images/property-02-3.png",
-      "/prime-estate/mock/images/property-02-4.png"
+      "/prime-estate/properties/property-02-1.png",
+      "/prime-estate/properties/property-02-2.png",
+      "/prime-estate/properties/property-02-3.png",
+      "/prime-estate/properties/property-02-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1421,12 +1421,12 @@ export const properties = [
     "state": "Massachusetts",
     "lat": 42.2652,
     "long": -71.8018,
-    "featuredImage": "/prime-estate/mock/images/property-09-1.png",
+    "featuredImage": "/prime-estate/properties/property-09-1.png",
     "images": [
-      "/prime-estate/mock/images/property-09-1.png",
-      "/prime-estate/mock/images/property-09-2.png",
-      "/prime-estate/mock/images/property-09-3.png",
-      "/prime-estate/mock/images/property-09-4.png"
+      "/prime-estate/properties/property-09-1.png",
+      "/prime-estate/properties/property-09-2.png",
+      "/prime-estate/properties/property-09-3.png",
+      "/prime-estate/properties/property-09-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "Elevators in Building"]
   },
@@ -1444,11 +1444,11 @@ export const properties = [
     "state": "Massachusetts",
     "lat": 42.1015,
     "long": -72.5898,
-    "featuredImage": "/prime-estate/mock/images/property-20-1.png",
+    "featuredImage": "/prime-estate/properties/property-20-1.png",
     "images": [
-      "/prime-estate/mock/images/property-20-1.png",
-      "/prime-estate/mock/images/property-18-2.png",
-      "/prime-estate/mock/images/property-18-3.png"
+      "/prime-estate/properties/property-20-1.png",
+      "/prime-estate/properties/property-18-2.png",
+      "/prime-estate/properties/property-18-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility", "Secured Entry"]
   },
@@ -1466,12 +1466,12 @@ export const properties = [
     "state": "Pennsylvania",
     "lat": 39.9526,
     "long": -75.1652,
-    "featuredImage": "/prime-estate/mock/images/property-01-1.png",
+    "featuredImage": "/prime-estate/properties/property-01-1.png",
     "images": [
-      "/prime-estate/mock/images/property-01-1.png",
-      "/prime-estate/mock/images/property-01-2.png",
-      "/prime-estate/mock/images/property-01-3.png",
-      "/prime-estate/mock/images/property-01-4.png"
+      "/prime-estate/properties/property-01-1.png",
+      "/prime-estate/properties/property-01-2.png",
+      "/prime-estate/properties/property-01-3.png",
+      "/prime-estate/properties/property-01-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Elevators in Building", "Business Center", "View", "Concierge"]
   },
@@ -1489,11 +1489,11 @@ export const properties = [
     "state": "Pennsylvania",
     "lat": 40.4534,
     "long": -79.9626,
-    "featuredImage": "/prime-estate/mock/images/property-12-1.png",
+    "featuredImage": "/prime-estate/properties/property-12-1.png",
     "images": [
-      "/prime-estate/mock/images/property-12-1.png",
-      "/prime-estate/mock/images/property-12-2.png",
-      "/prime-estate/mock/images/property-12-3.png"
+      "/prime-estate/properties/property-12-1.png",
+      "/prime-estate/properties/property-12-2.png",
+      "/prime-estate/properties/property-12-3.png"
     ],
     "amenities": ["Laundry Facility", "Secured Entry"]
   },
@@ -1511,11 +1511,11 @@ export const properties = [
     "state": "Pennsylvania",
     "lat": 40.2732,
     "long": -76.8867,
-    "featuredImage": "/prime-estate/mock/images/property-04-1.png",
+    "featuredImage": "/prime-estate/properties/property-04-1.png",
     "images": [
-      "/prime-estate/mock/images/property-04-1.png",
-      "/prime-estate/mock/images/property-04-2.png",
-      "/prime-estate/mock/images/property-04-3.png"
+      "/prime-estate/properties/property-04-1.png",
+      "/prime-estate/properties/property-04-2.png",
+      "/prime-estate/properties/property-04-3.png"
     ],
     "amenities": ["Parking Spaces", "Laundry Facility"]
   },
@@ -1533,11 +1533,11 @@ export const properties = [
     "state": "South Carolina",
     "lat": 34.0007,
     "long": -81.0348,
-    "featuredImage": "/prime-estate/mock/images/property-07-1.png",
+    "featuredImage": "/prime-estate/properties/property-07-1.png",
     "images": [
-      "/prime-estate/mock/images/property-07-1.png",
-      "/prime-estate/mock/images/property-07-2.png",
-      "/prime-estate/mock/images/property-07-3.png"
+      "/prime-estate/properties/property-07-1.png",
+      "/prime-estate/properties/property-07-2.png",
+      "/prime-estate/properties/property-07-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Swimming Pool", "Gym or Health Club", "Laundry Facility", "Pet-Friendly", "Balcony", "View"]
   },
@@ -1555,12 +1555,12 @@ export const properties = [
     "state": "South Carolina",
     "lat": 32.8793,
     "long": -79.9955,
-    "featuredImage": "/prime-estate/mock/images/property-10-1.png",
+    "featuredImage": "/prime-estate/properties/property-10-1.png",
     "images": [
-      "/prime-estate/mock/images/property-10-1.png",
-      "/prime-estate/mock/images/property-10-2.png",
-      "/prime-estate/mock/images/property-10-3.png",
-      "/prime-estate/mock/images/property-10-4.png"
+      "/prime-estate/properties/property-10-1.png",
+      "/prime-estate/properties/property-10-2.png",
+      "/prime-estate/properties/property-10-3.png",
+      "/prime-estate/properties/property-10-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1578,13 +1578,13 @@ export const properties = [
     "state": "North Carolina",
     "lat": 35.7796,
     "long": -78.6382,
-    "featuredImage": "/prime-estate/mock/images/property-03-1.png",
+    "featuredImage": "/prime-estate/properties/property-03-1.png",
     "images": [
-      "/prime-estate/mock/images/property-03-1.png",
-      "/prime-estate/mock/images/property-03-2.png",
-      "/prime-estate/mock/images/property-03-3.png",
-      "/prime-estate/mock/images/property-03-4.png",
-      "/prime-estate/mock/images/property-03-5.png"
+      "/prime-estate/properties/property-03-1.png",
+      "/prime-estate/properties/property-03-2.png",
+      "/prime-estate/properties/property-03-3.png",
+      "/prime-estate/properties/property-03-4.png",
+      "/prime-estate/properties/property-03-5.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View"]
   },
@@ -1602,11 +1602,11 @@ export const properties = [
     "state": "North Carolina",
     "lat": 36.0726,
     "long": -79.7920,
-    "featuredImage": "/prime-estate/mock/images/property-05-1.png",
+    "featuredImage": "/prime-estate/properties/property-05-1.png",
     "images": [
-      "/prime-estate/mock/images/property-05-1.png",
-      "/prime-estate/mock/images/property-05-2.png",
-      "/prime-estate/mock/images/property-05-3.png"
+      "/prime-estate/properties/property-05-1.png",
+      "/prime-estate/properties/property-05-2.png",
+      "/prime-estate/properties/property-05-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Parking Spaces", "View"]
   },
@@ -1624,12 +1624,12 @@ export const properties = [
     "state": "Oregon",
     "lat": 44.9429,
     "long": -123.0351,
-    "featuredImage": "/prime-estate/mock/images/property-06-1.png",
+    "featuredImage": "/prime-estate/properties/property-06-1.png",
     "images": [
-      "/prime-estate/mock/images/property-06-1.png",
-      "/prime-estate/mock/images/property-06-2.png",
-      "/prime-estate/mock/images/property-06-3.png",
-      "/prime-estate/mock/images/property-06-4.png"
+      "/prime-estate/properties/property-06-1.png",
+      "/prime-estate/properties/property-06-2.png",
+      "/prime-estate/properties/property-06-3.png",
+      "/prime-estate/properties/property-06-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1647,13 +1647,13 @@ export const properties = [
     "state": "Oregon",
     "lat": 44.0521,
     "long": -123.0868,
-    "featuredImage": "/prime-estate/mock/images/property-03-1.png",
+    "featuredImage": "/prime-estate/properties/property-03-1.png",
     "images": [
-      "/prime-estate/mock/images/property-03-1.png",
-      "/prime-estate/mock/images/property-03-2.png",
-      "/prime-estate/mock/images/property-03-3.png",
-      "/prime-estate/mock/images/property-03-4.png",
-      "/prime-estate/mock/images/property-03-5.png"
+      "/prime-estate/properties/property-03-1.png",
+      "/prime-estate/properties/property-03-2.png",
+      "/prime-estate/properties/property-03-3.png",
+      "/prime-estate/properties/property-03-4.png",
+      "/prime-estate/properties/property-03-5.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "View"]
   },
@@ -1671,11 +1671,11 @@ export const properties = [
     "state": "New York",
     "lat": 42.8864,
     "long": -78.8784,
-    "featuredImage": "/prime-estate/mock/images/property-24-1.png",
+    "featuredImage": "/prime-estate/properties/property-24-1.png",
     "images": [
-      "/prime-estate/mock/images/property-24-1.png",
-      "/prime-estate/mock/images/property-24-2.png",
-      "/prime-estate/mock/images/property-24-3.png"
+      "/prime-estate/properties/property-24-1.png",
+      "/prime-estate/properties/property-24-2.png",
+      "/prime-estate/properties/property-24-3.png"
     ],
     "amenities": ["Laundry Facility", "Secured Entry"]
   },
@@ -1693,13 +1693,13 @@ export const properties = [
     "state": "New York",
     "lat": 43.1629,
     "long": -77.6132,
-    "featuredImage": "/prime-estate/mock/images/property-02-1.png",
+    "featuredImage": "/prime-estate/properties/property-02-1.png",
     "images": [
-      "/prime-estate/mock/images/property-02-1.png",
-      "/prime-estate/mock/images/property-02-2.png",
-      "/prime-estate/mock/images/property-02-3.png",
-      "/prime-estate/mock/images/property-02-4.png",
-      "/prime-estate/mock/images/property-02-5.png"
+      "/prime-estate/properties/property-02-1.png",
+      "/prime-estate/properties/property-02-2.png",
+      "/prime-estate/properties/property-02-3.png",
+      "/prime-estate/properties/property-02-4.png",
+      "/prime-estate/properties/property-02-5.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1717,11 +1717,11 @@ export const properties = [
     "state": "North Carolina",
     "lat": 35.2271,
     "long": -80.8431,
-    "featuredImage": "/prime-estate/mock/images/property-22-1.png",
+    "featuredImage": "/prime-estate/properties/property-22-1.png",
     "images": [
-      "/prime-estate/mock/images/property-22-1.png",
-      "/prime-estate/mock/images/property-22-2.png",
-      "/prime-estate/mock/images/property-22-3.png"
+      "/prime-estate/properties/property-22-1.png",
+      "/prime-estate/properties/property-22-2.png",
+      "/prime-estate/properties/property-22-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Laundry Facility", "Private Patio"]
   },
@@ -1739,14 +1739,14 @@ export const properties = [
     "state": "Texas",
     "lat": 30.2672,
     "long": -97.7431,
-    "featuredImage": "/prime-estate/mock/images/property-14-1.png",
+    "featuredImage": "/prime-estate/properties/property-14-1.png",
     "images": [
-      "/prime-estate/mock/images/property-14-1.png",
-      "/prime-estate/mock/images/property-14-2.png",
-      "/prime-estate/mock/images/property-14-3.png",
-      "/prime-estate/mock/images/property-14-4.png",
-      "/prime-estate/mock/images/property-14-5.png",
-      "/prime-estate/mock/images/property-14-6.png"
+      "/prime-estate/properties/property-14-1.png",
+      "/prime-estate/properties/property-14-2.png",
+      "/prime-estate/properties/property-14-3.png",
+      "/prime-estate/properties/property-14-4.png",
+      "/prime-estate/properties/property-14-5.png",
+      "/prime-estate/properties/property-14-6.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Laundry Facility", "View"]
   },
@@ -1764,11 +1764,11 @@ export const properties = [
     "state": "Washington",
     "lat": 47.2529,
     "long": -122.4443,
-    "featuredImage": "/prime-estate/mock/images/property-11-1.png",
+    "featuredImage": "/prime-estate/properties/property-11-1.png",
     "images": [
-      "/prime-estate/mock/images/property-11-1.png",
-      "/prime-estate/mock/images/property-11-2.png",
-      "/prime-estate/mock/images/property-11-3.png"
+      "/prime-estate/properties/property-11-1.png",
+      "/prime-estate/properties/property-11-2.png",
+      "/prime-estate/properties/property-11-3.png"
     ],
     "amenities": ["Laundry Facility", "Secured Entry", "View"]
   },
@@ -1786,12 +1786,12 @@ export const properties = [
     "state": "Washington",
     "lat": 47.2529,
     "long": -122.4443,
-    "featuredImage": "/prime-estate/mock/images/property-02-1.png",
+    "featuredImage": "/prime-estate/properties/property-02-1.png",
     "images": [
-      "/prime-estate/mock/images/property-02-1.png",
-      "/prime-estate/mock/images/property-02-2.png",
-      "/prime-estate/mock/images/property-02-3.png",
-      "/prime-estate/mock/images/property-02-4.png"
+      "/prime-estate/properties/property-02-1.png",
+      "/prime-estate/properties/property-02-2.png",
+      "/prime-estate/properties/property-02-3.png",
+      "/prime-estate/properties/property-02-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility"]
   },
@@ -1809,13 +1809,13 @@ export const properties = [
     "state": "Washington",
     "lat": 47.2529,
     "long": -122.4443,
-    "featuredImage": "/prime-estate/mock/images/property-03-1.png",
+    "featuredImage": "/prime-estate/properties/property-03-1.png",
     "images": [
-      "/prime-estate/mock/images/property-03-1.png",
-      "/prime-estate/mock/images/property-03-2.png",
-      "/prime-estate/mock/images/property-03-3.png",
-      "/prime-estate/mock/images/property-03-4.png",
-      "/prime-estate/mock/images/property-03-5.png"
+      "/prime-estate/properties/property-03-1.png",
+      "/prime-estate/properties/property-03-2.png",
+      "/prime-estate/properties/property-03-3.png",
+      "/prime-estate/properties/property-03-4.png",
+      "/prime-estate/properties/property-03-5.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "View", "Laundry Facility"]
   },
@@ -1833,11 +1833,11 @@ export const properties = [
     "state": "Oregon",
     "lat": 45.5152,
     "long": -122.6784,
-    "featuredImage": "/prime-estate/mock/images/property-18-1.png",
+    "featuredImage": "/prime-estate/properties/property-18-1.png",
     "images": [
-      "/prime-estate/mock/images/property-18-1.png",
-      "/prime-estate/mock/images/property-18-2.png",
-      "/prime-estate/mock/images/property-18-3.png"
+      "/prime-estate/properties/property-18-1.png",
+      "/prime-estate/properties/property-18-2.png",
+      "/prime-estate/properties/property-18-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Elevators in Building", "Bike Storage", "View"]
   },
@@ -1855,12 +1855,12 @@ export const properties = [
     "state": "Oregon",
     "lat": 45.5152,
     "long": -122.6784,
-    "featuredImage": "/prime-estate/mock/images/property-04-1.png",
+    "featuredImage": "/prime-estate/properties/property-04-1.png",
     "images": [
-      "/prime-estate/mock/images/property-04-1.png",
-      "/prime-estate/mock/images/property-04-2.png",
-      "/prime-estate/mock/images/property-04-3.png",
-      "/prime-estate/mock/images/property-04-4.png"
+      "/prime-estate/properties/property-04-1.png",
+      "/prime-estate/properties/property-04-2.png",
+      "/prime-estate/properties/property-04-3.png",
+      "/prime-estate/properties/property-04-4.png"
     ],
     "amenities": ["Parking Spaces", "Laundry Facility"]
   },
@@ -1878,11 +1878,11 @@ export const properties = [
     "state": "Arizona",
     "lat": 33.4152,
     "long": -111.8313,
-    "featuredImage": "/prime-estate/mock/images/property-07-3.png",
+    "featuredImage": "/prime-estate/properties/property-07-3.png",
     "images": [
-      "/prime-estate/mock/images/property-07-1.png",
-      "/prime-estate/mock/images/property-07-2.png",
-      "/prime-estate/mock/images/property-07-3.png"
+      "/prime-estate/properties/property-07-1.png",
+      "/prime-estate/properties/property-07-2.png",
+      "/prime-estate/properties/property-07-3.png"
     ],
     "amenities": ["Centrally Air-Conditioned", "Swimming Pool", "Gym or Health Club", "Elevators in Building"]
   },
@@ -1900,13 +1900,13 @@ export const properties = [
     "state": "Arizona",
     "lat": 32.2226,
     "long": -110.9747,
-    "featuredImage": "/prime-estate/mock/images/property-03-4.png",
+    "featuredImage": "/prime-estate/properties/property-03-4.png",
     "images": [
-      "/prime-estate/mock/images/property-03-1.png",
-      "/prime-estate/mock/images/property-03-2.png",
-      "/prime-estate/mock/images/property-03-3.png",
-      "/prime-estate/mock/images/property-03-4.png",
-      "/prime-estate/mock/images/property-03-5.png"
+      "/prime-estate/properties/property-03-1.png",
+      "/prime-estate/properties/property-03-2.png",
+      "/prime-estate/properties/property-03-3.png",
+      "/prime-estate/properties/property-03-4.png",
+      "/prime-estate/properties/property-03-5.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Swimming Pool", "View", "Laundry Facility"]
   },
@@ -1924,12 +1924,12 @@ export const properties = [
     "state": "California",
     "lat": 37.7749,
     "long": -122.4194,
-    "featuredImage": "/prime-estate/mock/images/property-01-1.png",
+    "featuredImage": "/prime-estate/properties/property-01-1.png",
     "images": [
-      "/prime-estate/mock/images/property-01-1.png",
-      "/prime-estate/mock/images/property-01-2.png",
-      "/prime-estate/mock/images/property-01-3.png",
-      "/prime-estate/mock/images/property-01-4.png"
+      "/prime-estate/properties/property-01-1.png",
+      "/prime-estate/properties/property-01-2.png",
+      "/prime-estate/properties/property-01-3.png",
+      "/prime-estate/properties/property-01-4.png"
     ],
     "amenities": ["Furnished", "Parking Spaces", "Centrally Air-Conditioned", "Gym or Health Club", "Swimming Pool", "Elevators in Building", "Business Center", "View", "Concierge"]
   },
@@ -1947,12 +1947,12 @@ export const properties = [
     "state": "California",
     "lat": 34.1899,
     "long": -118.1438,
-    "featuredImage": "/prime-estate/mock/images/property-14-1.png",
+    "featuredImage": "/prime-estate/properties/property-14-1.png",
     "images": [
-      "/prime-estate/mock/images/property-14-1.png",
-      "/prime-estate/mock/images/property-14-2.png",
-      "/prime-estate/mock/images/property-14-3.png",
-      "/prime-estate/mock/images/property-14-4.png"
+      "/prime-estate/properties/property-14-1.png",
+      "/prime-estate/properties/property-14-2.png",
+      "/prime-estate/properties/property-14-3.png",
+      "/prime-estate/properties/property-14-4.png"
     ],
     "amenities": ["Parking Spaces", "Centrally Air-Conditioned", "Laundry Facility", "View"]
   }
